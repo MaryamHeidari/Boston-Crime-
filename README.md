@@ -1,5 +1,5 @@
 # Boston-Crime
-Crime rate has long been a concerning issue. Our team will dive into the crime situation in Boston using “Crimes in Boston” dataset which is provided by Boston Police Department including records of crime in the Boston between June 14, 2015, and September 3, 2018.
+It was team project. Crime rate has long been a concerning issue. Our team will dive into the crime situation in Boston using “Crimes in Boston” dataset which is provided by Boston Police Department including records of crime in the Boston between June 14, 2015, and September 3, 2018.
 
 ## Business Question
 What locations are prone to more crimes?
